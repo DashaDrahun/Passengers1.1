@@ -1,0 +1,91 @@
+﻿<Window x:Class="Kurs_BusinessLayer.WindowHelpers.EditClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kurs_BusinessLayer.WindowHelpers"
+        mc:Ignorable="d"
+        Title="EditClientWindow" Height="385.662" Width="372.831">
+    <Grid Name="Grid1" Margin="0,0,2,-2">
+        <Label Content="Редактировать клиента" Name="lbHeader" FontFamily="arial" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left"></Label>
+        <Label Content="Фамилия" Height="28" HorizontalAlignment="Left" Margin="10,25,0,0" Name="lbName" VerticalAlignment="Top" Width="75" />
+        <Label Content="Имя" Height="28" HorizontalAlignment="Left" Margin="10,58,0,0" Name="lbFamily" VerticalAlignment="Top" Width="75" />
+        <Label Content="Отчество" Height="28" HorizontalAlignment="Left" Margin="10,91,0,0" Name="lbPatronym" VerticalAlignment="Top" Width="75" />
+        <Label Content="Дата рождения" Height="28" HorizontalAlignment="Left" Margin="10,124,0,0" Name="lbDtBirth" VerticalAlignment="Top" Width="97" />
+        <Label Content="Моб.телефон" Height="28" HorizontalAlignment="Left" Margin="10,157,0,0" Name="lbTel_Mob" VerticalAlignment="Top" Width="127" />
+        <Label Content="Email" Height="28" HorizontalAlignment="Left" Margin="10,199,0,0" VerticalAlignment="Top" Width="122" />
+        <Label Content="ПрофильVK" Height="28" HorizontalAlignment="Left" Margin="10,236,0,0" Name="lbAddrOfRes" VerticalAlignment="Top" Width="122" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="137,25,0,0" Name="tbFamily" VerticalAlignment="Top" Width="183" >
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <TextBox.Text>
+                <Binding Path="Family" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource"  ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,58,43,0" Name="tbName" VerticalAlignment="Top" Width="183">
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <TextBox.Text>
+                <Binding Path="Name" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource"  ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="137,91,0,0" Name="tbPatronym" VerticalAlignment="Top" Width="183" >
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <TextBox.Text>
+                <Binding Path="Patronymic" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource"  ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="137,162,0,0" x:Name="tbPasspNum" VerticalAlignment="Top" Width="183" >
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <TextBox.Text>
+                <Binding Path="Tel_Mobile" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource" ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="137,199,0,0" x:Name="tbAddrReg" VerticalAlignment="Top" Width="183">
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <TextBox.Text>
+                <Binding Path="Email" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource" ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="137,241,0,0" x:Name="tbAddrOfRes" VerticalAlignment="Top" Width="183" >
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <TextBox.Text>
+                <Binding Path="VKProfile" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource" ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <DatePicker Name="dpDtBirth" DisplayDate="01/01/1917" DisplayDateStart="01/01/1917" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="137,123,0,0" Width="183">
+            <!--Validation.ErrorTemplate="{StaticResource validationFailed}"-->
+            <DatePicker.SelectedDate>
+                <Binding Path="DateBirth" UpdateSourceTrigger="PropertyChanged" Mode="OneWayToSource" ValidatesOnDataErrors="True">
+                    <Binding.ValidationRules>
+                        <DataErrorValidationRule />
+                    </Binding.ValidationRules>
+                </Binding>
+            </DatePicker.SelectedDate>
+        </DatePicker>
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="213,303,0,0" Name="button1" Command="{Binding CancelEditClientCommand}" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.178,0.663" />
+        <Button Content="OK" Height="22" HorizontalAlignment="Left" Command="{Binding OkEditClientCommand}" Margin="45,304,0,0" Name="button2" VerticalAlignment="Top" Width="76" RenderTransformOrigin="-0.178,0.663" />
+    </Grid>
+</Window>

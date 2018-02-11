@@ -1,0 +1,20 @@
+﻿<Window x:Class="Kurs_View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="531.792" Width="1216.915">
+    <DockPanel Name="MyDockPanel" LastChildFill="True">
+        <Menu DockPanel.Dock="Top" Height="25" VerticalAlignment="Top" Background="WhiteSmoke">
+            <MenuItem Header="Города" Command="{Binding GoToCityPageCommand}"/>
+            <MenuItem Header="Маршруты" Command="{Binding GoToRoutePageCommand}"/>
+            <MenuItem Header="Рейсы" Command="{Binding GoToTripPageCommand}"/>
+            <MenuItem Header="Клиенты" Command="{Binding GoToClientPageCommand}"/>
+            <MenuItem Header="Заказы" Command="{Binding GoToOrderPageCommand}"/>
+        </Menu>
+        <Grid Name="MyStackPanel" DockPanel.Dock="Left">
+            <Frame NavigationUIVisibility="Hidden" Content="{Binding CurrentPage}"></Frame>
+        </Grid>
+    </DockPanel>
+</Window>

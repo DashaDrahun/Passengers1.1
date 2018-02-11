@@ -1,0 +1,530 @@
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+E:\ProjectsVS2015\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+C:\Users\Darya\Desktop\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+E:\Passengers 1.3 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.4 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.5 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (on work)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+C:\Users\Darya\Desktop\на сдачу курсач!!!\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+C:\Users\Darya\Desktop\Passengers 1.6 (версия перед сдачей)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+E:\Passengers 1.7(onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe.config
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.exe
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_BusinessLayer.pdb
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.exe
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\Kurs_DataLayer.pdb
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\AutoMapper.xml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\App.g.cs
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.cache
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer_MarkupCompile.lref
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\CityPage.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\ClientPage.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\HomePage.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\OrderPage.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\RoutePage.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Pages\TripPage.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewCityWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewClientWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewOrderWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewRouteWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\AddNewTripWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditCityWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditClientWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditRouteWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\WindowHelpers\EditTripWindow.baml
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.g.resources
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.Properties.Resources.resources
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.csproj.GenerateResource.Cache
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.exe
+E:\Passengers 1.8 (onwork)\курсоваяПассажироперевозки\Kurs_BusinessLayer\obj\Debug\Kurs_BusinessLayer.pdb

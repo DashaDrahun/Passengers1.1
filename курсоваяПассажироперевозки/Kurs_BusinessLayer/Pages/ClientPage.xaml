@@ -1,0 +1,40 @@
+﻿<Page x:Class="Kurs_BusinessLayer.Pages.ClientPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Kurs_BusinessLayer.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="ClientPage">
+
+    <Grid Margin="0,0,-276,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dGrid" Grid.Column="1"  ItemsSource="{Binding Allclients, NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" SelectedItem="{Binding SelectedClient, NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged, Mode=OneWayToSource}"  AutoGenerateColumns="False" LoadingRow="dGrid_LoadingRow" RowHeaderWidth="50" IsReadOnly="True" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ClientID" Binding="{Binding Path=ClientId, UpdateSourceTrigger=PropertyChanged}" Width="100">
+                    <DataGridTextColumn.CellStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextAlignment" Value="Right"/>
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Header="Дата рождения" Binding="{Binding Path=DateBirth, StringFormat=\{0:dd.MM.yy\}, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Header="Моб.телефон" Binding="{Binding Path=Tel_Mobile, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Header="Email" Binding="{Binding Path=Email, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Header="VKProfile" Binding="{Binding Path=VKProfile, UpdateSourceTrigger=PropertyChanged}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel x:Name="stackbuttons">
+            <Button x:Name="btnAdd"  Command="{Binding AddClientCommand}" >Добавить</Button>
+            <Button x:Name="btnEdit" Command="{Binding EditClientCommand}">Редактировать</Button>
+            <Button x:Name="btnDelete"  Command="{Binding DeleteClientCommand}">Удалить</Button>
+            <Button Command="{Binding AddOrderCommand}">Оформить заказ</Button>
+        </StackPanel>
+
+    </Grid>
+</Page>
